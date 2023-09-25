@@ -1,6 +1,5 @@
 {
   "name": "dine_me",
-  "homepage": "https://ManashAnand.github.io/DineMe",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
